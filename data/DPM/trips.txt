@@ -1,0 +1,3 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,wheelchair_accessible,bikes_allowed
+2139017,22210,33276,Loop,Regular Run,0,69683,1,
+2139018,22210,33279,Loop,Sunday Run,0,69683,1,2

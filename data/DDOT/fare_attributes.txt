@@ -1,0 +1,5 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+regular,2.00,USD,0,0,
+reg_4HR,2.00,USD,0, ,14400
+reg_24HR,5.00,USD,0, ,86400
+
